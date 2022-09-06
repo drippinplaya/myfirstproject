@@ -1,0 +1,14 @@
+header {
+  font-size: 3px;
+}
+
+body {
+  font-size: 20px;
+}
+body div {
+  font-size: 30px;
+}
+
+.block__second {
+  background-color: rgba(170, 170, 170, 0.9333333333);
+}

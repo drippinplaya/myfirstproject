@@ -1,0 +1,17 @@
+@import "_header";
+body {
+  font-size: 20px;
+  div {
+    font-size: 30px;
+  }
+}
+.block {
+
+  &__second {
+    background-color: #aaae;
+  }
+}
+.block {
+}
+.block__second {
+}
